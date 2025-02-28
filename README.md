@@ -72,6 +72,3 @@ This script can also be executed on an **Azure Virtual Machine (VM)** for cloud-
 
 ## 📢 Contribute
 Have suggestions? Feel free to open an issue or submit a PR!
-
-## 📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
